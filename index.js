@@ -1,1 +1,1 @@
-//one two three
+const color = 1
